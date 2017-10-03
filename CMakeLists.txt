@@ -3,5 +3,5 @@ project(casino)
 
 set(CMAKE_C_STANDARD 99)
 
-set(SOURCE_FILES main.c)
+set(SOURCE_FILES casino.c)
 add_executable(casino ${SOURCE_FILES})
